@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is a test app!\nDescription has single direction, it can only be set up at client side, not on the json code side"
   }
 }
